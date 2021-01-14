@@ -1,8 +1,8 @@
 ---
 title: Hello World!
 date: 2021-01-13 20:30:00 -0500
-categories: [Site Announcements]
-tags: []     # TAG names should always be lowercase
+categories: [Site Announcements, Welcome!]
+tags: [hello world]     # TAG names should always be lowercase
 toc: false
 comments: false
 pin: true
