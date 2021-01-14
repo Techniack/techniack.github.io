@@ -7,9 +7,9 @@
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
-title: Chirpy                          # the main title
+title: Techniack                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: My little corner of the 'Net   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
@@ -17,23 +17,23 @@ description: >-                        # used by seo meta and the atom feed
   and focuses on text presentation.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://techniack.github.io'
 
-author: your_full_name                  # change to your full name
+author: Techniack                  # change to your full name
 
 github:
-  username: github_username             # change to your github username
+  username: Techniack             # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: Techniack            # change to your twitter username
 
 social:
-  name: your_full_name                  # it will shows as the copyright owner in Footer
-  email: example@doamin.com             # change to your email address
+  name: Techniack                  # it will shows as the copyright owner in Footer
+  email: zf6inbsps@relay.firefox.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    - https://twitter.com/Techniack      # change to your twitter homepage
+    - https://github.com/techniack       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -44,10 +44,10 @@ google_site_verification: google_meta_tag_verification # change to your verifica
 
 # Only if your site type is GitHub Project sites and doesn't have a custom domain,
 # change below value to '/projectname'.
-baseurl: ''
+baseurl: '/techniack.github.io'
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Shanghai
+timezone: America/New_York
 
 google_analytics:
   id: ''          # Fill with your Google Analytics ID
@@ -87,7 +87,7 @@ theme_mode:   # [light|dark]
 img_cdn: ''
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://cdn.jsdelivr.net/gh/cotes2020/chirpy-images/commons/avatar.jpg
+avatar: https://pbs.twimg.com/profile_images/1283236991652569096/OF4OtRJo_400x400.jpg
 
 # boolean type, the global switch for ToC in posts.
 toc: true
