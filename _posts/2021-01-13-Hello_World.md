@@ -5,7 +5,7 @@ categories: [Site Announcements, Welcome!]
 tags: [hello world]     # TAG names should always be lowercase
 toc: false
 comments: false
-pin: true
+pin: false
 ---
 # Hello World!
 Welcome to my little corner of the internet. I have no idea what I'm doing, so come hang out!
