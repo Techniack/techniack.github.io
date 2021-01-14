@@ -11,4 +11,5 @@ order: 4
 ---
 
 
-> **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
+# Hello!
+My name is Techniack and I like to build things. This is my little site to showcase some of my one-off projects and things without linking to my big site. Feel free to take a look around and say hi!
