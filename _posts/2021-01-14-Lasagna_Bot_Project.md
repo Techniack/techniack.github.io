@@ -8,8 +8,8 @@ comments: false
 pin: false
 ---
 # Introducing the LasagnaBot
-## Tha Whatnow?
-The LasagnaBot! Basically, its a 3D printer that makes Lasagna at the press of a button. The printer will be built around a customized version of the Ender 5 Max with a toolchanging system to apply the different fixins. 
+## The Whatnow?
+The LasagnaBot! Basically, its a 3D printer that makes Lasagna at the press of a button. The printer will be built around a customized version of the Ender 5 Max with a toolchanging system to apply the different fixins.
 
 
 ## Who Came Up With This?
